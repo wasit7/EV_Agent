@@ -107,5 +107,5 @@ Quality Assurance is performed via a defined set of scenarios found in  [TEST_CA
 
 ## 8. Setting Up
 please check the following resources;
-[setup.md](setup.md "setting up")
-[TEST_CASES.md](TEST_CASES.md "Test Scenarios")
+* [setup.md](setup.md "setting up")
+* [TEST_CASES.md](TEST_CASES.md "Test Scenarios")
