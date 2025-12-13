@@ -106,4 +106,6 @@ Quality Assurance is performed via a defined set of scenarios found in  [TEST_CA
 * **Category 4: System Persistence:** Verifies data integrity across container restarts.
 
 ## 8. Setting Up
-[setup.md](setup.md.md "setting up")
+please check the following resources;
+[setup.md](setup.md "setting up")
+[TEST_CASES.md](TEST_CASES.md "Test Scenarios")
