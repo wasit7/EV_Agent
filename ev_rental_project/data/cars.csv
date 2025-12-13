@@ -1,0 +1,5 @@
+model_name,range_km,price_per_day,status
+Tesla Model 3,450,2500,AVAILABLE
+BYD Atto 3,420,1800,AVAILABLE
+ORA Good Cat,400,1500,AVAILABLE
+BMW iX,600,5000,AVAILABLE

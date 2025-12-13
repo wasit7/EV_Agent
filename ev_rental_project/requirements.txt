@@ -1,0 +1,5 @@
+Django>=5.0,<6.0
+psycopg2-binary
+dspy-ai
+google-generativeai
+python-dotenv
