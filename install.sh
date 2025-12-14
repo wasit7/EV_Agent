@@ -42,7 +42,7 @@ EOF
 
 echo "📝 Generating docker-compose.yml..."
 cat > docker-compose.yml <<EOF
-version: '3.8'
+version: '3.7'
 
 services:
   web:
@@ -86,7 +86,7 @@ cat > .env <<EOF
 DEBUG=True
 SECRET_KEY=django-insecure-master-key-change-in-prod
 DATABASE_URL=postgres://postgres:password@db:5432/ev_app
-ALLOWED_HOSTS=localhost,127.0.0.1,0.0.0.0
+ALLOWED_HOSTS=*
 # REPLACE THIS WITH YOUR REAL KEY
 GEMINI_API_KEY=
 EOF
